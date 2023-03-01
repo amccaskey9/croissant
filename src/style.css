@@ -10,6 +10,10 @@ body {
   margin: 10px 20px;
 }
 
+h1 {
+  text-align: center;
+}
+
 a {
   color: var(--secondary-color);
   text-decoration: none;
