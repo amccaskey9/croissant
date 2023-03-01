@@ -1,0 +1,20 @@
+:root {
+  --primary-color: #d6b8f1;
+  --secondary-color: #ad67ea;
+  --accent-color: #fff;
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--accent-color);
+  margin: 10px 20px;
+}
+
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
